@@ -1,2 +1,2 @@
 # attraction_map
-![アトラクション](sakura.jpg)
+![アトラクション](colorful-1974699_1920.png)
