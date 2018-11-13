@@ -1,5 +1,5 @@
 # attraction_map
-・[忍者](https://pixabay.com/ja/photos/?q=ninja&hp=&image_type=all&order=&cat=&min_width=&min_height=)  
+・[忍者](https://takajo-soft39.github.io/Ninja-World/)  
 ・[ヒーロー](https://takajo-soft39.github.io/Hero-World/)  
 ・[スイーツランド](https://takajo-soft10.github.io/atraction/)  
 ・[ファンタジー](https://pixabay.com/ja/photos/?q=fantasy&hp=&image_type=all&order=&cat=&min_width=&min_height=)  
